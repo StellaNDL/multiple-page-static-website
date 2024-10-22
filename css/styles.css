@@ -5,14 +5,22 @@ h1 {
     text-align: center;
     color: black;
 }
+
 p {
-    display: block;
     text-align: center;
 }
-a {
+.croissant-photo {
+    max-width: 100%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
+  }
+  
+footer a {
     color: green;
-    text-decoration: underline;
-    display: inline-block;
-    text-align: center;
+    margin: 0 10px;
 
+}
+footer {
+    text-align: center;
 }
